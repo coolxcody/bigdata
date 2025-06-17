@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Lab_14
 
 ### **Porównanie: Delta Lake vs Apache Iceberg**
